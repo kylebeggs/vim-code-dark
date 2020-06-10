@@ -98,7 +98,7 @@ let s:cdDiffRedLightLight = {'gui': '#FB0101', 'cterm': s:cterm08, 'cterm256': '
 let s:cdDiffGreenDark = {'gui': '#373D29', 'cterm': s:cterm0B, 'cterm256': '237'}
 let s:cdDiffGreenLight = {'gui': '#4B5632', 'cterm': s:cterm09, 'cterm256': '58'}
 
-let s:cdSearchCurrent = {'gui': '#ff5f00, 'cterm': s:cterm09, 'cterm256': '202'}
+let s:cdSearchCurrent = {'gui': '#ff5f00', 'cterm': s:cterm09, 'cterm256': '202'}
 let s:cdSearch = {'gui': '#ff8700', 'cterm': s:cterm0A, 'cterm256': '208'}
 
 " Syntax colors:
